@@ -1,16 +1,18 @@
-### Hi there 👋
+# Vincent Maggioli -- @vmaggioli
+Hey, I'm Vince - a DevOps engineer for Philips EMR working to support development on our healthcare platform.
 
-<!--
-**vmaggioli/vmaggioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤵 Who am I?
+#### 🧠 - an active learner
+My degree specification is in general Software Engineering, but I've been actively learning principles in DevOps on the job as well as becoming versed in Machine Learning through [certifications](https://www.linkedin.com/in/vincent-maggioli/).
 
-Here are some ideas to get you started:
+#### 🎮 - a huge gamer
+I got my first console in high school (Xbox 360), and it's been game over ever since. A few of my highest hours played games are; LoL, Final Fantasy XIV, Monster Hunter: World, and CS:GO. My current go-to games are Valorant, Call of Duty, and [osu!](https://github.com/ppy/osu).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⌨️ - a keyboard nerd
+A new hobby I've found after college is creating mechanical keyboards! I've currently only built 2 (speed silver and zilent v2 switches), but I've got plans for many more.
+
+#### 👨‍🍳 - a curious chef
+When not gaming or coding I enjoy trying to make different kinds of dishes! I tend to hover around making either Italian or Asian dishes.
+
+## 🌟 Goals for 2020
+My main goals for 2020 are rooted in certifications, as I want to be AWS Developer Certified as well as be well on the path to gaining a Tensorflow certification next year. I also would like to begin contributing to [osu!](https://github.com/ppy/osu) since it's a game that I thoroughly enjoy.
