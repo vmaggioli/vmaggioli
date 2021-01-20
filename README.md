@@ -11,5 +11,5 @@ I got my first console in high school (Xbox 360), and it's been game over ever s
 #### ⌨️ - a keyboard nerd
 A new hobby I've found after college is creating mechanical keyboards! I've currently only built 2 (speed silver and zilent v2 switches), but I've got plans for many more.
 
-## 🌟 Goals for 2020
-My main goals for 2020 are rooted in certifications, as I want to be AWS Developer Certified as well as be on the path to gaining a Tensorflow certification next year. I also would like to begin contributing to [osu!](https://github.com/ppy/osu) since it's a game that I thoroughly enjoy.
+## 🌟 Goals for 2021
+My main goal for 2021 is more contributions to open source! My starting focus is contributing to [osu!](https://github.com/ppy/osu) since it's a game that I thoroughly enjoy and has a great community!
