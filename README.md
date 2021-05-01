@@ -1,5 +1,5 @@
 # Vincent Maggioli -- @vmaggioli
-Hey, I'm Vince - a DevOps engineer for Philips EMR working to support development on our healthcare platform.
+Hey, I'm Vince - a Senior Software Engineer for DraftKings!
 
 ## 🤵 Who am I?
 #### 🧠 - an active learner
