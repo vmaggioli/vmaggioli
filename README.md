@@ -2,14 +2,14 @@
 Hey, I'm Vince - a Senior Software Engineer for DraftKings!
 
 ## 🤵 Who am I?
-#### 🧠 - an active learner
-My degree specification is in general Software Engineering, but I've been actively learning principles in DevOps on the job as well as becoming versed in Machine Learning through [certifications](https://www.linkedin.com/in/vincent-maggioli/).
+### 🧠 - an active learner
+My degree specification is in general Software Engineering, but I've been actively learning and utilizing technologies such as AWS, Kubernetes and Helm.
 
-#### 🎮 - a huge gamer
-I got my first console in high school (Xbox 360), and it's been game over ever since. A few of my highest hours played games are; League of Legends, Final Fantasy XIV, Monster Hunter: World, and CS:GO. My current go-to games are Final Fantasy XIV and Apex Legends.
+### 🎮 - a huge gamer
+I got my first console in high school (Xbox 360), and it's been game over ever since. A few of my highest hours played games are; League of Legends, Final Fantasy XIV, Monster Hunter: World, and CS:GO. My current go-to game is Final Fantasy XIV.
 
-#### ⌨️ - a keyboard nerd
-A new hobby I've found after college is creating mechanical keyboards! I've currently only built 2 (speed silver and zilent v2 switches), but I've got plans for many more.
+### ⌨️ - a keyboard nerd
+A new hobby I've found after college is creating mechanical keyboards! I've currently only built 3 (speed silver, zilent v2, and kalih box jade switche), but I've got plans for many more.
 
-## 🌟 Goals for 2021
-My main goal for 2021 is more contributions to open source! My starting focus is contributing to [osu!](https://github.com/ppy/osu) since it's a game that I thoroughly enjoy and has a great community!
+### 🌟 Goals for 2022
+My main goal for 2022 is to expand my knowledge base on AWS technologies and to gain an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/) certification
