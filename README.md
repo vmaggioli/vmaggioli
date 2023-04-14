@@ -1,5 +1,5 @@
 # Vincent Maggioli -- @vmaggioli
-Hey, I'm Vince - a Senior Software Engineer for DraftKings!
+Hey, I'm Vince - a Senior Software Engineer for Capital One!
 
 ## 🤵 Who am I?
 ### 🧠 - an active learner
@@ -10,6 +10,3 @@ I got my first console in high school (Xbox 360), and it's been game over ever s
 
 ### ⌨️ - a keyboard nerd
 A new hobby I've found after college is creating mechanical keyboards! I've currently only built 3 (speed silver, zilent v2, and kalih box jade switche), but I've got plans for many more.
-
-### 🌟 Goals for 2022
-My main goal for 2022 is to expand my knowledge base on AWS technologies and to gain an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/) certification
