@@ -1,5 +1,5 @@
 # Vincent Maggioli -- @vmaggioli
-Hey, I'm Vince - a Senior Software Engineer for Capital One!
+Hey, I'm Vince - a Platform Engineer II for MISO!
 
 ## 🤵 Who am I?
 ### 🧠 - an active learner
